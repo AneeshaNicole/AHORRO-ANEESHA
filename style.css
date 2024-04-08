@@ -575,8 +575,8 @@ margin-bottom: 2.5rem;
 .package{
   padding: 3rem 0;
   background-color: var(--clr-light);
- }
- .package__theme{
+}
+.package__theme{
   padding: 5rem;
   display: flex;
 }
@@ -767,7 +767,6 @@ margin-left: -25rem;
     }
   }
 
-}
 /* UPDATES */
 .updates{
   padding: 50px 0;
@@ -855,6 +854,8 @@ margin-left: -25rem;
   margin-bottom: 20px;
   text-align: center;
   color: var(--clr-primary);
+  font-size: 6rem;
+  font-weight: 700;
 }
 .project__wrapper{
   display: grid;
